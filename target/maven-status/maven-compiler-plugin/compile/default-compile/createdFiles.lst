@@ -1,0 +1,11 @@
+com\challenge\Service\PropertyService.class
+com\challenge\Exception\ErrorResponse$ErrorMessage.class
+com\challenge\Entity\RentalEntity$RentalEntityBuilder.class
+com\challenge\Entity\RentalEntity.class
+com\challenge\Resource\PropertyResource.class
+com\challenge\Exception\PropertyException.class
+com\challenge\Resource\Input\AvailablePropertyInput.class
+com\challenge\Exception\ExceptionMapper.class
+com\challenge\Exception\ConstraintViolationExceptionMapper.class
+com\challenge\Respository\RentalRepository.class
+com\challenge\Exception\ErrorResponse.class
